@@ -4,9 +4,10 @@
 #include <math.h>
 
 using namespace std;
-
 void printPrimes(int n)
 {
+
+	cout << "this is wqay better" << endl;
 
 	int size = 100;
 	if (n > 0)
